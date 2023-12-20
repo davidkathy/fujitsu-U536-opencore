@@ -1,12 +1,9 @@
-# fujitsu-U536-opencore
-
 # System's Configuration:
-
- - Laptop fujitsu  U536
+ - Laptop fujitsu lifebook U536
 ## Specifications 	Details
 | Specifications  | Details                        |
 | -------------   | -------------------------------|
-| Laptop Model    | fujitsu LIFEBOOK U536          |
+| Laptop Model    | fujitsu lifebook U536          |
 | Processor       | Intel Core i7-6500U @ 3.10GHz  |
 | RAM             | 1 X 8GB                        |
 | Storage         | SSD 256GB                      |
@@ -16,7 +13,7 @@
 - macOS Monterey 12.6.2 (working)
 - OpenCore 0.7.9
 
-#
+
 # What's Working :
 
 - Intel HD Graphics 520
